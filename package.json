@@ -1,0 +1,53 @@
+{
+  "name": "react-api",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.1",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.0-beta1",
+    "leaflet": "^1.7.1",
+    "leaflet-extra-markers": "^1.2.1",
+    "leaflet-roughcanvas": "^1.0.0",
+    "leaflet-routing-machine": "^3.2.12",
+    "leaflet.awesome-markers": "^2.0.5",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-data-table-component": "^6.11.6",
+    "react-dom": "^17.0.1",
+    "react-leaflet": "^3.0.5",
+    "react-scripts": "4.0.1",
+    "styled-components": "^5.2.1",
+    "tripkit-leaflet": "^1.0.3",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
